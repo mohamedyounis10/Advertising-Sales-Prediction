@@ -2,8 +2,6 @@
 
 A comprehensive machine learning project for predicting product **sales** based on advertising spend across **TV**, **Radio**, and **Newspaper** channels. This project includes exploratory data analysis, feature engineering, model comparison, and an interactive **Power BI** dashboard.
 
-![Dashboard Preview](Dashboard/image.png)
-
 ## 📋 Table of Contents
 
 - [Overview](#overview)
@@ -40,7 +38,7 @@ This project aims to predict **Sales** based on advertising budgets in TV/Radio/
 ## 📁 Project Structure
 
 ```text
-CodeAlpha_Advertising_Sales_Prediction/
+Advertising_Sales_Prediction/
 │
 ├── Dataset/
 │   └── Advertising.csv          # Advertising spend + sales dataset
@@ -144,6 +142,8 @@ The project compares three regression models on a held-out test set (`test_size=
 <a id="dashboard"></a>
 ## 📊 Dashboard
 
+<img width="1313" height="711" alt="Screenshot 2026-01-18 170348" src="https://github.com/user-attachments/assets/f927aab1-0c29-4024-8c2a-f4135084109c" />
+
 To explore the Power BI dashboard:
 
 - Open `Dashboard/Advertising.pbix` using **Power BI Desktop**
@@ -178,9 +178,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Mohamed Younis**
 
-<a id="acknowledgments"></a>
-## 🙏 Acknowledgments
-
-- CodeAlpha for the project opportunity
-- Open source community for the amazing Python ecosystem
 
