@@ -142,7 +142,7 @@ The project compares three regression models on a held-out test set (`test_size=
 <a id="dashboard"></a>
 ## 📊 Dashboard
 
-<img width="1313" height="711" alt="Screenshot 2026-01-18 170348" src="https://github.com/user-attachments/assets/f927aab1-0c29-4024-8c2a-f4135084109c" />
+<img width="1277" height="704" alt="Screenshot 2026-01-21 150436" src="https://github.com/user-attachments/assets/63509635-cc68-4665-978c-8b5b09c938cb" />
 
 To explore the Power BI dashboard:
 
@@ -177,5 +177,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Mohamed Younis**
+
 
 
